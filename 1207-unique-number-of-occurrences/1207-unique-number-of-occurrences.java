@@ -9,10 +9,9 @@ class Solution {
         HashSet<Integer> uniqueFreq = new HashSet<>();
         for (Map.Entry<Integer, Integer> num : freqNum.entrySet()) {
             Integer frequency = num.getValue();
-            if (uniqueFreq.contains(frequency)) {
+            if (!uniqueFreq.add(frequency)) {
                 return false;
             }
-            uniqueFreq.add(frequency);
         }
 
         return true;
