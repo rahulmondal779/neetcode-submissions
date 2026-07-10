@@ -1,23 +1,24 @@
 class Solution {
     public int equalPairs(int[][] grid) {
-        HashMap<Integer, List<Integer>> rowHashMap = new HashMap<>();
-        HashMap<Integer, List<Integer>> colHashMap = new HashMap<>();
-
-        for (int i = 0; i < grid.length; i++) {
-
-            for (int j = 0; j < grid[i].length; j++) {
-                rowHashMap.computeIfAbsent(i, key -> new ArrayList<>()).add(grid[i][j]);
-                colHashMap.computeIfAbsent(j, key -> new ArrayList<>()).add(grid[i][j]);
+        Map<List<Integer>, Integer> rowFrequency = new HashMap<>();
+        for (int[] row : grid) {
+            List<Integer> rowValues = new ArrayList<>();
+            for(int value : row) {
+                rowValues.add(value);
             }
+
+            rowFrequency.put(rowValues, rowFrequency.getOrDefault(rowValues, 0) + 1);
         }
 
         int count = 0;
-        for (List<Integer> rowValues : rowHashMap.values()) {
-            for (List<Integer> colValues : colHashMap.values()) {
-                if (rowValues.equals(colValues)) {
-                    count++;
-                }
+        for (int col = 0; col < grid.length; col++) {
+            List<Integer> columnValues = new ArrayList<>();
+            
+            for (int row = 0; row < grid.length; row++) {
+                columnValues.add(grid[row][col]);
             }
+
+            count+=rowFrequency.getOrDefault(columnValues, 0);
         }
 
         return count;
