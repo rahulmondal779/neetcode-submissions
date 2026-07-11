@@ -92,6 +92,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2390-removing-stars-from-a-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -108,4 +109,9 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
