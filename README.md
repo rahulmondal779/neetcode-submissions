@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0001-two-sum) |
+| [0735-asteroid-collision](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0735-asteroid-collision) |
 | [1207-unique-number-of-occurrences](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -111,10 +112,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
