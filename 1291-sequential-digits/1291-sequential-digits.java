@@ -4,10 +4,14 @@ class Solution {
         for (int start = 1; start <= 9; start++) {
             int num = start;
 
-            for (int nextDigit = start+1; nextDigit <= 9; nextDigit++) {
+            for (int nextDigit = start + 1; nextDigit <= 9; nextDigit++) {
                 num = num * 10 + nextDigit;
 
-                if (num >= low && num <= high) {
+                if (num > high) {
+                    break;
+                }
+
+                if (num >= low) {
                     sortedIntegers.add(num);
                 }
             }
