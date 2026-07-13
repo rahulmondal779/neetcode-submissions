@@ -126,4 +126,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0394-decode-string) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
