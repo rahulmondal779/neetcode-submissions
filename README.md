@@ -146,6 +146,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,4 +155,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
