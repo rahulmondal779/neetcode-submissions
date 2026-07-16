@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1331-rank-transform-of-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2352-equal-row-and-column-pairs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1657-determine-if-two-strings-are-close) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -116,6 +118,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0735-asteroid-collision](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -148,10 +151,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +165,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
