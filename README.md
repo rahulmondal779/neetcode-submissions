@@ -125,6 +125,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0394-decode-string) |
 ## Enumeration
 |  |
@@ -159,4 +160,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
