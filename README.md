@@ -183,10 +183,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -195,6 +197,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0872-leaf-similar-trees) |
 ## Greedy
 |  |
 | ------- |
