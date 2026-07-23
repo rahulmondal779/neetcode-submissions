@@ -183,6 +183,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -190,6 +191,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -202,6 +204,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
